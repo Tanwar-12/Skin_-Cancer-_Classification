@@ -1,1 +1,1 @@
-# Skin_-Cancer-_Classification
+# Skin_Cancer_Classification
